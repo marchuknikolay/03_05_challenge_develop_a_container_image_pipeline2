@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: marchuknikolay/03_05_challenge_develop_a_container_image_pipeline1/blob/main/.github/workflows/python-app.yml.github/workflows/python-app.yml@<ref>
+    uses: marchuknikolay/03_05_challenge_develop_a_container_image_pipeline1/.github/workflows/python-app.yml.github/workflows/python-app.yml@<ref>
     permissions:
       contents: read
       checks: write
